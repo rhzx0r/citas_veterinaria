@@ -29,7 +29,9 @@ npm run dev
 ## 👨‍🏫 Créditos
 Este proyecto fue desarrollado por estudiantes del curso de Sistemas Distribuidos como parte del trabajo práctico de la materia.
 
+---
 ### Integrantes
-👩🏻‍💻 Erika Yamily Aguilar Itza
-👨🏻‍💻 Angel Alejandro Balderas Pech
-👨🏻‍💻 Ricardo Reyes Balam Cupul
+- 👩🏻‍💻 Erika Yamily Aguilar Itza
+- 👨🏻‍💻 Angel Alejandro Balderas Pech
+- 👨🏻‍💻 Ricardo Reyes Balam Cupul
+---
