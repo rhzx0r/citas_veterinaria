@@ -1,8 +1,8 @@
-# 🐾 Citas Veterinaria
+# 🐾 Veterinaria
 
-Frontend de una aplicación web para **agendar citas veterinarias para mascotas**, desarrollada como parte del curso de **Sistemas Distribuidos**.
+Frontend de una aplicación web para **seguimiento de pacientes mascotas para una veterinaria**, desarrollada como parte del curso de **Sistemas Distribuidos**.
 
-Este proyecto permite al usuario gestionar fácilmente las citas de mascotas en una veterinaria, proporcionando una interfaz amigable, rápida y responsiva.
+Este proyecto permite al usuario gestionar fácilmente los pacientes mascotas, proporcionando una interfaz amigable, rápida y responsiva.
 
 ---
 
